@@ -2,14 +2,20 @@
 
 An experiment to combine well-known sayings and quotes into new, random phrases.
 
+## Usage
+
+```
+python proverbgenerator.py [phrase file]
+```
+
 ## Examples in English
 
 ```
-the nail that swells in odd numbers
-plough deep while the last will play makes perfect
-second thoughts are lost
-common sense is better than the last place
-one who grinds at work is the talk
+better safe than the wicked
+dont wash your life
+if it aint broke dont burn the worst
+where there is a man is not gold
+put your cake and let live
 ```
 
 ## Examples in Danish
